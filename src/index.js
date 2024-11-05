@@ -28,6 +28,11 @@ const skills = [
         level: "beginner",
         color: "purple"
     },
+    {
+        skill: "PHP",
+        level: "Intermediate",
+        color: "purple"
+    },
 ];
 
 function App () {
