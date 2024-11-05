@@ -30,7 +30,7 @@ const skills = [
     },
     {
         skill: "PHP",
-        level: "Intermediate",
+        level: "intermediate",
         color: "purple"
     },
 ];
